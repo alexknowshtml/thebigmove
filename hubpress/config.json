@@ -4,7 +4,12 @@
     "repositoryName": "thebigmove",
     "branch": "gh-pages"
   },
+  "site": {
+    "title": "The Big Move",
+    "description": "399 Market, here we come"
+  },
+  "socialnetwork": {},
   "theme": {
-    "name": "Casper"
+    "name": "casper"
   }
 }
